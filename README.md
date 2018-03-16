@@ -1,2 +1,2 @@
 # Portfolio
-A responsive website Portfolio
+A responsive Portfolio
