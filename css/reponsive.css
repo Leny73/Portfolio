@@ -9,6 +9,12 @@ img {
     width: 100%;
 }
 
+.img-style {
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+}
+
 @media screen and (min-width:750px){
     container {
     margin-left: auto;
@@ -18,5 +24,6 @@ img {
     card ,pixel, foundation{
         width:33.3%;
     }
+    
 
 }
